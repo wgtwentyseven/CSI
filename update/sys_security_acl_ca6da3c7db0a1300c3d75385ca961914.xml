@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_161414_csi_csi</description>
+        <name>x_161414_csi_csi</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-18 09:29:35</sys_created_on>
+        <sys_id>ca6da3c7db0a1300c3d75385ca961914</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_161414_csi_csi</sys_name>
+        <sys_package display_value="CSI" source="x_161414_csi">dd3a2b07db0a1300c3d75385ca96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CSI">dd3a2b07db0a1300c3d75385ca96199d</sys_scope>
+        <sys_update_name>sys_security_acl_ca6da3c7db0a1300c3d75385ca961914</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-18 09:29:35</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_161414_csi_csi">x_161414_csi_csi</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>CSI</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-18 09:29:36</sys_created_on>
+        <sys_id>4e6da3c7db0a1300c3d75385ca96192d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CSI</sys_name>
+        <sys_package display_value="CSI" source="x_161414_csi">dd3a2b07db0a1300c3d75385ca96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CSI">dd3a2b07db0a1300c3d75385ca96199d</sys_scope>
+        <sys_update_name>sys_number_4e6da3c7db0a1300c3d75385ca96192d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-18 09:29:36</sys_updated_on>
+    </sys_number>
+</record_update>

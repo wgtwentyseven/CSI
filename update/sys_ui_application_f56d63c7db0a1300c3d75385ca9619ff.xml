@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>CSI </name>
+        <order/>
+        <roles>x_161414_csi.csi_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-18 09:29:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f56d63c7db0a1300c3d75385ca9619ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CSI </sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CSI" source="x_161414_csi">dd3a2b07db0a1300c3d75385ca96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CSI">dd3a2b07db0a1300c3d75385ca96199d</sys_scope>
+        <sys_update_name>sys_ui_application_f56d63c7db0a1300c3d75385ca9619ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-18 09:29:35</sys_updated_on>
+    </sys_ui_application>
+</record_update>

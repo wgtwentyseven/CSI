@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-18 09:29:35</sys_created_on>
+        <sys_id>f16da3c7db0a1300c3d75385ca961907</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_161414_csi_csi.x_161414_csi.csi_user</sys_name>
+        <sys_package display_value="CSI" source="x_161414_csi">dd3a2b07db0a1300c3d75385ca96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CSI">dd3a2b07db0a1300c3d75385ca96199d</sys_scope>
+        <sys_security_acl display_value="x_161414_csi_csi">b16da3c7db0a1300c3d75385ca961904</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f16da3c7db0a1300c3d75385ca961907</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-18 09:29:35</sys_updated_on>
+        <sys_user_role display_value="x_161414_csi.csi_user" name="x_161414_csi.csi_user">356d6f87db0a1300c3d75385ca961948</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

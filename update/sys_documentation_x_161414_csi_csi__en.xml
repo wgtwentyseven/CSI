@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="CSI " language="en" table="x_161414_csi_csi">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>CSI </label>
+            <language>en</language>
+            <name>x_161414_csi_csi</name>
+            <plural>CSI s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-18 09:29:35</sys_created_on>
+            <sys_id>ca6da3c7db0a1300c3d75385ca961922</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>CSI</sys_name>
+            <sys_package display_value="CSI" source="x_161414_csi">dd3a2b07db0a1300c3d75385ca96199d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CSI">dd3a2b07db0a1300c3d75385ca96199d</sys_scope>
+            <sys_update_name>sys_documentation_x_161414_csi_csi__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-18 09:29:35</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
